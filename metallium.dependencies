@@ -1,0 +1,26 @@
+[
+  {
+    "remote": "github",
+    "repository": "Metallium/android_device_qcom_common",
+    "target_path": "device/cyanogen/msm8916-common",
+    "revision": "lp5.1"
+  },
+  {
+    "remote": "github",
+    "repository": "Metallium/android_external_mm-dash",
+    "target_path": "external/mm-dash",
+    "revision": "lp5.1"
+  },
+  {
+    "remote": "github",
+    "repository": "Metallium/android_hardware_qcom_fm",
+    "target_path": "hardware/qcom/fm"
+    "revision": "lp5.1"
+  },
+  {
+    "remote": "github",
+    "repository": "Metallium/android_kernel_cyanogen_msm8916",
+    "target_path": "kernel/cyanogen/msm8916"
+    "revision": "lp5.1"
+  }
+]
